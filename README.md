@@ -45,12 +45,7 @@
 
 ## Contact
 
-Portfolio Website - [OjashGurung](https://www.ojashgurung.social)
-
-LinkedIn - [![ojash-gurung](https://i.stack.imgur.com/gVE0j.png) ojash-gurung](https://www.linkedin.com/in/ojash-gurung)
-&nbsp;
-
-Project Link- [Text_to_speech_converter](https://github.com/ianshulx/React-projects-for-beginners/tree/main/text_to_speech)
+Project Link- [Text_to_speech_converter](https://flourishing-biscotti-7d942e.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
